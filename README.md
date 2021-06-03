@@ -21,6 +21,7 @@ python run.py
 程序命令:
 ```
 python filter_data.py
+python album_sale.py
 ```
 
 输出结果:
